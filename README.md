@@ -36,3 +36,6 @@ sudo apt-get install blender
 
 
 ![image](https://user-images.githubusercontent.com/36963108/190671089-567b99f3-6705-4f57-b089-382c3664dca0.png)
+![image](https://user-images.githubusercontent.com/36963108/190672839-9feb5a17-80b0-4597-a78a-c75a60e4adec.png)
+
+
